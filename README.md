@@ -4,6 +4,6 @@ My Daily Python and AI learning Journey
 
 <p align="center">
   <a href="#-about-this-course">
-    <img src="static/mother_of_ai_project_rag_architecture.gif" alt="RAG Architecture" width="700">
+    <img src="Screenshot 2026-10-10 112650.png" alt="RAG Architecture" width="700">
   </a>
 </p>
